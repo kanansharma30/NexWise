@@ -1,2 +1,3 @@
 .env
 FinBackend/src/serviceAccountKey.json
+FinBuddy/src/firebase.js
